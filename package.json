@@ -4,7 +4,7 @@
   "private": true,
   "insomnia": {
     "name": "fake-data-chile",
-    "description": "ste plugin para Insomnia permite generar RUT y nombres chilenos de manera aleatoria, ideal para desarrolladores que necesitan datos de prueba realistas y específicos del mercado chileno."
+    "description": "Este plugin para Insomnia permite generar RUT y nombres chilenos de manera aleatoria, ideal para desarrolladores que necesitan datos de prueba realistas y específicos del mercado chileno."
   },
   "main": "main.js",
   "dependencies": {
